@@ -1,6 +1,5 @@
 # SMButton
-SMButton - Inspired by Foodpanda
-
+`SMButton` is a `UIButton` subclass inspired by Foodpanda app.
 
 # Usage
 SMButton creation
