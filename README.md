@@ -25,3 +25,7 @@ Control SMButton's activity status
         @IBAction func fail(_ sender: Any) {
             customButton.updateStatus = .failed
         }
+
+# Author
+
+[Siroson Mathuranga Sivarajah](https://tryswift.wordpress.com)
